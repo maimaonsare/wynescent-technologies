@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/wynescent-technologies/static/css/main.f10f5ec0.css",
+    "main.js": "/wynescent-technologies/static/js/main.7fb1f8de.js",
+    "static/media/big-image.jpg": "/wynescent-technologies/static/media/big-image.0bba21b4e518c5c0e115.jpg",
+    "static/media/mypic2.jpg": "/wynescent-technologies/static/media/mypic2.03417c01b86bb02d08b7.jpg",
+    "static/media/mypic.jpg": "/wynescent-technologies/static/media/mypic.df7ddcf7d75686d1ed7c.jpg",
+    "static/media/Project3.jpg": "/wynescent-technologies/static/media/Project3.6e8ad56c89f41b9061f6.jpg",
+    "static/media/Project2.jpg": "/wynescent-technologies/static/media/Project2.1ba45185496b17fc53e0.jpg",
+    "static/media/mypic1.jpg": "/wynescent-technologies/static/media/mypic1.5a465cbde6419ab5affa.jpg",
+    "static/media/Project1.jpg": "/wynescent-technologies/static/media/Project1.15f9514f6d1ebe759eba.jpg",
+    "static/media/Project4.jpg": "/wynescent-technologies/static/media/Project4.d292a944e1e63f2ad055.jpg",
+    "static/media/logo3.png": "/wynescent-technologies/static/media/logo3.7dd59a0cf8f34585a339.png",
+    "static/media/swoosh.png": "/wynescent-technologies/static/media/swoosh.e7e043829a8f67420db3.png",
+    "static/media/webdesign.png": "/wynescent-technologies/static/media/webdesign.1f0250db6026d84e355e.png",
+    "static/media/arrow-right.png": "/wynescent-technologies/static/media/arrow-right.e834aa7912606dbc509d.png",
+    "static/media/arrow-left.png": "/wynescent-technologies/static/media/arrow-left.737c04cd13c9dfdc7317.png",
+    "static/media/design.png": "/wynescent-technologies/static/media/design.26a880ecc6c9ae048327.png",
+    "static/media/ologogo.png": "/wynescent-technologies/static/media/ologogo.5397df385e6f7d989c5c.png",
+    "static/media/check-white.png": "/wynescent-technologies/static/media/check-white.05dd93f8458134962088.png",
+    "static/media/vdpartner.png": "/wynescent-technologies/static/media/vdpartner.9a09a95cbbe218ff2082.png",
+    "static/media/arrow.png": "/wynescent-technologies/static/media/arrow.4fc1aa8cf71950e03daf.png",
+    "index.html": "/wynescent-technologies/index.html",
+    "main.f10f5ec0.css.map": "/wynescent-technologies/static/css/main.f10f5ec0.css.map",
+    "main.7fb1f8de.js.map": "/wynescent-technologies/static/js/main.7fb1f8de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f10f5ec0.css",
+    "static/js/main.7fb1f8de.js"
+  ]
+}
